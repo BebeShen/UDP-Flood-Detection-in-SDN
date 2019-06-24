@@ -1,4 +1,4 @@
-# Detecting UDP Flood with SVM
+# Detecting UDP Flood with SVM and ENTROPY
 
 ## Mininet & Pox 
 ### Software Requirements
